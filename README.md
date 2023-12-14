@@ -5,7 +5,7 @@ Olá! 👋 Meu nome é Leonardo Bragato Bassi, tenho 18 anos e sou apaixonado po
 # 📚 Educação
 
 - ✅[ETEC]: [TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS]
-- ⏳[MACKENZIE]: [Análise em Desenvolvimento de Sistemas]
+- ⏳[MACKENZIE]: [Análise e Desenvolvimento de Sistemas]
 
  &nbsp;
  &nbsp;
