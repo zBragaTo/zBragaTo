@@ -1,6 +1,6 @@
 # Leonardo Bragato Bassi
 <p align="center">
-Olá! 👋 Meu nome é Leonardo Bragato Bassi, sou apaixonado por tecnologia. Atualmente, estou explorando o vasto mundo do desenvolvimento de software, com o objetivo de me especializar como desenvolvedor back-end.</p>&nbsp;
+Olá! 👋 Meu nome é Leonardo Bragato Bassi, sou apaixonado por tecnologia. Atualmente, estou explorando o vasto mundo do desenvolvimento de software, especializado como desenvolvedor back-end.</p>&nbsp;
 
 # 📚 Educação
 
